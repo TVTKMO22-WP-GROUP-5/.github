@@ -1,6 +1,6 @@
 # Welcome to TVT22KMO Group 5's Github organization page! 
 
-
+![This is an image](/profile/logo_by_midjourney_ai.png)
 
 
 
